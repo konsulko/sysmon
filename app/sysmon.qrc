@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sysmon.qml</file>
+    </qresource>
+</RCC>
